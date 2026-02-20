@@ -48,6 +48,20 @@ My work focuses on **improving operational efficiency, reducing risk, and drivin
 
 ## Featured Projects
 
+### Incident Management System (BRIMIS Engineering)
+**Domain:** Industrial Engineering / Mining & Energy
+**Focus:** Incident Tracking, SLA Monitoring, Root Cause Analysis, HSE Compliance
+
+- Built Excel-based incident management system for industrial valve & pump engineering firm
+- Implemented priority matrix (P1-P4) with SLA tracking and visual compliance indicators
+- Designed VBA-powered forms for artisan-friendly incident logging and assignment workflows
+- Delivered dashboard with KPI metrics, category breakdowns, and resolution trend reporting
+- **Stack:** Excel (.xlsm), VBA, Python (workbook generation)
+
+[View Repository](https://github.com/MattSlayed/BRIMIS-Engineering)
+
+---
+
 ### Contract & Risk Management Platform
 **Domain:** Engineering / Construction
 **Focus:** NEC3/NEC4 Contract Analysis, Obligation Tracking, Risk Identification
