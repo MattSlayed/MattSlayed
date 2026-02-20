@@ -139,17 +139,6 @@ A dedicated portfolio site with detailed case studies from BRIMIS Engineering an
 - **Email:** matthew@novatekllc.co.za
 - **LinkedIn:** [matthew-koeberg-a76760296](https://linkedin.com/in/matthew-koeberg-a76760296)
 - **GitHub:** [MattSlayed](https://github.com/MattSlayed)
-
----
-
-## How to Navigate This Portfolio
-
-Recruiters and hiring managers can:
-- Review featured projects by clicking through to each repository
-- Examine real deliverables including code, documentation, and analysis notebooks
-- See measurable business impact and technical implementation
-- Assess tool proficiency across BA, data analytics, and full-stack development
-
----
+- **Notion Portfolio:** (https://www.notion.so/Matthew-Business-Analyst-Portfolio-30be6c99a6b4804098acfa16cd1be358?source=copy_link)
 
 **Thank you for visiting my Business Analyst & Consultant Portfolio.**
