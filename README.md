@@ -1,14 +1,14 @@
 # Business Analyst & Consultant Portfolio — Matthew Koeberg
 
-Welcome to my **Business Analyst & Consultant Portfolio**, showcasing real-world projects across **contract management, process automation, data analytics, supply chain optimization, and financial intelligence**.
+Welcome to my **Applied AI Implementation & Consultant Portfolio**, showcasing real-world projects across **contract management, process automation, data analytics, supply chain optimization, financial intelligence and Business Process Enhancement**.
 
-This profile demonstrates my ability to translate complex business problems into clear requirements, optimized processes, and measurable outcomes — delivered through **NOVATEK LLC** consulting engagements and independent analysis projects.
+This profile demonstrates my ability to translate complex business problems into clear requirements, optimized processes, and measurable outcomes delivered through **NOVATEK LLC** consulting engagements and independent analysis projects.
 
 ---
 
 ## About Me
 
-I am a **Business Analyst & Consultant** operating through NOVATEK LLC, with hands-on experience in:
+I am a **Business Analyst, Solutions Architect & Consultant** operating through NOVATEK LLC, with hands-on experience in:
 - Requirements elicitation & stakeholder collaboration
 - Process modeling & workflow automation (As-Is / To-Be)
 - Data analysis using Python, SQL & Excel
