@@ -3,7 +3,7 @@
 **AI Engineer & Business Analyst · NOVATEK LLC · Midrand, South Africa**
 
 I design the systems and then build them. Most of my work sits at the seam where language models
-meet institutions — industrial operations, contracts, quality management — where the interesting
+meet institutions industrial operations, contracts, quality management where the interesting
 problem is rarely the model and almost always the plumbing, the process and the accountability.
 
 I write publicly about that seam, including a three-tier framework for making calibrated claims
@@ -20,7 +20,7 @@ Four, one of them running in client operations. Status stated plainly.
 [Live](https://d2a-intelligence-web.vercel.app) · Next.js · Anthropic Messages API/Web search tool
 
 A demonstration Agentic Operating System. Profiles enterprise accounts, detects buying triggers,
-routes to the right executive, and scores pursuit priority using the ABCD method — grounded in
+routes to the right executive, and scores pursuit priority using the ABCD method grounded in
 live web research through a **two-pass research agent** with streaming responses.
 
 Ships four authored Claude Code skills (`run-d2a-sweep`, `deploy-to-vercel`, `add-d2a-agent`,
@@ -41,7 +41,7 @@ servicing valves and pumps across seven-plus Eskom power stations. Claude conver
 into technical reports; Google Cloud Vision performs defect detection with confidence scoring.
 
 The design point is the gates, not the AI. Step 6 locks repair until the client approves the PO.
-Three hard human sign-off points sit between the model and anything that leaves the workshop —
+Three hard human sign-off points sit between the model and anything that leaves the workshop
 because a defect marked closed while still open does not stay on the page. It travels.
 
 *Deployment is currently offline pending a redeploy.*
@@ -51,7 +51,7 @@ Claude API · MCP · Notion · Python · FastAPI
 
 Turns 50–100 unstructured operational emails a week into schema-validated priorities, action items
 and per-station intelligence, via a ~10 KB structured-extraction prompt. An MCP routing layer into
-Notion is in build-out. **Running.** Repository private — client operational data.
+Notion is in build-out. **Running.** Repository private client operational data.
 
 ---
 
