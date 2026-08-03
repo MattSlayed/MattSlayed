@@ -94,15 +94,15 @@ KPI tracking and recommendations.
 current- and future-state analysis · stakeholder management to executive level · risk analysis ·
 gap analysis · BABOK v3 · BRD/FRD · UAT planning
 
-**AI & automation** — Claude API · Model Context Protocol (MCP) · prompt engineering ·
-context engineering · agentic workflow design · Claude Code skills authoring · Process Automation · Copilot
+**AI & automation** — Claude API · Model Context Protocol (MCP) · Prompt Engineering ·
+Context Engineering · Agentic Workflow Design · Claude Code skills authoring · Process Automation · Copilot
 
 **Data & BI** — Power BI · star-schema modelling · DAX · Power Query M · Python ETL · SQL/SQLite ·
 dashboard design
 
 **Build** — TypeScript · Next.js · React · NestJS · Prisma · Supabase · Tailwind · Docker · VBA
 
-**Standards & methods** — ISO 9001:2015 · NEC3/NEC4 · McKinsey 7S · Scrum · TOC (Theory of Constraints) · RCA (Root Cause Analysis) · SWOT · PESTLE/PORTERS  · Digital Transformation Matrix
+**Standards & methods** — ISO 9001:2015 · NEC3/NEC4 · McKinsey 7S · Scrum · TOC (Theory of Constraints) · RCA (Root Cause Analysis) · SWOT · PESTLE/PORTERS  · Digital Transformation Matrix · ICM (Infinite Context Memory)
 ---
 
 ## Certifications
