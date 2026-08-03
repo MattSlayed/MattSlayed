@@ -1,158 +1,151 @@
-# Business Analyst & Consultant Portfolio — Matthew Koeberg
+# Matthew Koeberg
 
-Welcome to my **Applied AI Implementation & Consultant Portfolio**, showcasing real-world projects across **contract management, process automation, data analytics, supply chain optimization, financial intelligence and Business Process Enhancement**.
+**AI Engineer & Business Analyst · NOVATEK LLC · Midrand, South Africa**
 
-This profile demonstrates my ability to translate complex business problems into clear requirements, optimized processes, and measurable outcomes delivered through **NOVATEK LLC** consulting engagements and independent analysis projects.
+I design the systems and then build them. Most of my work sits at the seam where language models
+meet institutions — industrial operations, contracts, quality management — where the interesting
+problem is rarely the model and almost always the plumbing, the process and the accountability.
 
----
-
-## About Me
-
-I am a **Business Analyst, Solutions Architect & Consultant** operating through NOVATEK LLC, with hands-on experience in:
-- Requirements elicitation & stakeholder collaboration
-- Process modeling & workflow automation (As-Is / To-Be)
-- Data analysis using Python, SQL & Excel
-- Contract analysis (NEC3/NEC4) & risk identification
-- Application development & digital transformation
-- Agile (Scrum) delivery support
-
-My work focuses on **improving operational efficiency, reducing risk, and driving data-informed decisions** for clients across engineering, logistics, and financial services.
+I write publicly about that seam, including a three-tier framework for making calibrated claims
+about AI experience. I applied it to my own résumé before applying it to anything else, and this
+page follows the same rule: every claim below points at a repository.
 
 ---
 
-## Core Skills & Tools
+## Systems built with the Claude API as a core component
 
-**Business Analysis**
-- Business Requirements Documents (BRD)
-- Functional & Non-Functional Requirements (FRD / NFR)
-- Stakeholder Analysis & RACI
-- User Stories & Acceptance Criteria
-- UAT Planning & Support
-- Process Mapping (BPMN)
+Four, one of them running in client operations. Status stated plainly.
 
-**Data & Analytics**
-- Python (Pandas, Scikit-learn, Matplotlib)
-- SQL & KPI Tracking
-- Excel Dashboards & Pivot Analysis
-- Market Basket Analysis (Apriori)
-- Root Cause & Bottleneck Analysis
+### [D2A Target Account Intelligence](https://github.com/MattSlayed/d2a-intelligence-web) — NOVATEK Agentic OS
+[Live](https://d2a-intelligence-web.vercel.app) · Next.js · Anthropic Messages API
 
-**Technical & Delivery**
-- Next.js, React, TypeScript
-- NestJS, Prisma, Supabase
-- Docker & CI/CD
-- AI/ML Integration
-- Agile / Scrum / SDLC
+A demonstration Agentic Operating System. Profiles enterprise accounts, detects buying triggers,
+routes to the right executive, and scores pursuit priority using the ABCD method — grounded in
+live web research through a **two-pass research agent** with streaming responses.
 
----
+Ships four authored Claude Code skills (`run-d2a-sweep`, `deploy-to-vercel`, `add-d2a-agent`,
+`update-aos-docs`) and an enterprise PRD of 71 requirements with a traceability matrix.
 
-## Featured Projects
+### [Contract Management Platform](https://github.com/MattSlayed/Contracts-Management)
+[Live](https://contracts-management-nu.vercel.app) · NestJS · Next.js · Prisma · TypeScript
 
-### Incident Management System (BRIMIS Engineering)
-**Domain:** Industrial Engineering / Mining & Energy
-**Focus:** Incident Tracking, SLA Monitoring, Root Cause Analysis, HSE Compliance
+AI-assisted contract lifecycle management for NEC3/NEC4 engineering contracts. The Claude API
+extracts key terms, parties, dates, values and obligations; identifies risk; compares clauses; and
+generates executive summaries. Obligation tracking and deadline management on top.
 
-- Built Excel-based incident management system for industrial valve & pump engineering firm
-- Implemented priority matrix (P1-P4) with SLA tracking and visual compliance indicators
-- Designed VBA-powered forms for artisan-friendly incident logging and assignment workflows
-- Delivered dashboard with KPI metrics, category breakdowns, and resolution trend reporting
-- **Stack:** Excel (.xlsm), VBA, Python (workbook generation)
+### [Workshop Intelligence System](https://github.com/MattSlayed/WIS)
+Next.js · Supabase · Drizzle · Claude 3.5 Sonnet · Google Cloud Vision
 
-[View Repository](https://github.com/MattSlayed/BRIMIS-Engineering)
+An 11-step gated service workflow for **BRIMIS Engineering**, an industrial maintenance contractor
+servicing valves and pumps across seven-plus Eskom power stations. Claude converts technician notes
+into technical reports; Google Cloud Vision performs defect detection with confidence scoring.
 
----
+The design point is the gates, not the AI. Step 6 locks repair until the client approves the PO.
+Three hard human sign-off points sit between the model and anything that leaves the workshop —
+because a defect marked closed while still open does not stay on the page. It travels.
 
-### Contract & Risk Management Platform
-**Domain:** Engineering / Construction
-**Focus:** NEC3/NEC4 Contract Analysis, Obligation Tracking, Risk Identification
+*Deployment is currently offline pending a redeploy.*
 
-- Built AI-powered contract analysis with automated clause extraction
-- Implemented obligation tracking and deadline management
-- Delivered risk identification and mitigation workflows
-- **Stack:** NestJS, Next.js, Prisma, TypeScript
+### Central Intelligence System — client operations, private
+Claude API · MCP · Notion · Python · FastAPI
 
-[View Repository](https://github.com/MattSlayed/Contracts-Management)
+Turns 50–100 unstructured operational emails a week into schema-validated priorities, action items
+and per-station intelligence, via a ~10 KB structured-extraction prompt. An MCP routing layer into
+Notion is in build-out. **Running.** Repository private — client operational data.
 
 ---
 
-### Workshop Intelligence System (WIS)
-**Domain:** Automotive / Service Operations
-**Focus:** Workflow Automation, AI-Powered Defect Detection, Report Generation
+## Business analysis, in code and in documents
 
-- Designed and built an 11-step service workflow automation system
-- Integrated computer vision for vehicle defect detection
-- Automated report generation reducing manual documentation effort
-- **Stack:** Next.js, Supabase, Drizzle ORM, TypeScript
+### [Fleet Management System](https://github.com/MattSlayed/my-projectFleet-management-app)
+[Live](https://my-project-fleet-management-app.vercel.app) · Next.js · Prisma · NextAuth
+Requirements elicited from stakeholder interviews, specified, then built: vehicle tracking, driver
+assignment, maintenance scheduling, trip reporting with cost and utilisation tracking.
 
-[View Repository](https://github.com/MattSlayed/WIS)
+### [BRIMIS Incident Management System](https://github.com/MattSlayed/BRIMIS-Engineering)
+Excel · VBA · Python
+P1–P4 priority matrix with SLA tracking and visual compliance indicators. VBA forms designed for
+artisans on the floor, not analysts at a desk. Dashboard with KPI metrics, category breakdowns and
+resolution trends.
 
----
+### [Market Basket Analysis](https://github.com/MattSlayed/MarketBasketAnalysis)
+Python · Pandas · MLxtend · Jupyter
+Apriori association rule mining over a simulated 10,000-order retail dataset, identifying
+cross-selling opportunities. Delivered with a process model and a business requirements document.
 
-### Order Fulfillment Performance Analysis
-**Domain:** Supply Chain / Logistics
-**Focus:** Delivery Optimization, Bottleneck Identification, Operational KPIs
-
-- Analyzed fulfillment cycle times to identify process bottlenecks
-- Developed KPI tracking for on-time delivery and order accuracy
-- Delivered actionable recommendations for operational improvement
-- **Stack:** Python, Pandas, Jupyter Notebook
-
-[View Repository](https://github.com/MattSlayed/Order-Fulfillment-Analysis)
-
----
-
-### Market Basket Analysis
-**Domain:** Retail / Analytics
-**Focus:** Association Rule Mining, Cross-Selling Opportunities, Purchase Patterns
-
-- Applied Apriori algorithm to identify product purchase patterns
-- Uncovered cross-selling opportunities from transaction data
-- Generated actionable insights for inventory and promotion strategy
-- **Stack:** Python, Pandas, MLxtend, Jupyter Notebook
-
-[View Repository](https://github.com/MattSlayed/MarketBasketAnalysis)
+### [Order Fulfilment Performance Analysis](https://github.com/MattSlayed/Order-Fulfillment-Analysis)
+Python · Pandas · Jupyter
+Fulfilment cycle-time analysis identifying bottlenecks, with on-time-delivery and order-accuracy
+KPI tracking and recommendations.
 
 ---
 
-### Financial Analytics Dashboard
-**Domain:** Finance / Business Intelligence
-**Focus:** KPI Tracking, Budget Analysis, Data Visualization
+## Web
 
-- Built interactive dashboards for revenue and expense tracking
-- Implemented budget variance analysis and trend identification
-- Delivered real-time financial KPI monitoring
-- **Stack:** React, Chart.js, JavaScript
-
-[View Repository](https://github.com/MattSlayed/novatek-financial-dashboardv2)
+**[NOVATEK website](https://github.com/MattSlayed/novatek-website)** · [live](https://novatek-website.vercel.app) — Vite, React, TypeScript, Tailwind, Framer Motion
+**[nexora-solar](https://github.com/MattSlayed/nexora-solar)** · [live](https://nexora-solar-eight.vercel.app) — TypeScript, Vite, with a chatbot module
+**[Financial analytics dashboard](https://github.com/MattSlayed/novatek-financial-dashboardv2)** — React, Chart.js; KPI tracking and budget variance analysis
+**[koeberg-portfolio](https://github.com/MattSlayed/koeberg-portfolio)** — WordPress BA portfolio, custom SCSS theme, Docker, Vite
 
 ---
 
-### Fleet Management System
-**Domain:** Logistics / Operations
-**Focus:** Vehicle Tracking, Maintenance Scheduling, Trip Reporting
+## What I have not done
 
-- Developed end-to-end fleet operations management platform
-- Implemented driver assignment and maintenance scheduling workflows
-- Built trip reporting with cost and utilization tracking
-- **Stack:** Next.js, Prisma, NextAuth, TypeScript
+The three-tier framework is only worth anything if it cuts both ways, so:
 
-[View Repository](https://github.com/MattSlayed/my-projectFleet-management-app)
+- **No machine-learning models.** I have not trained, tuned or deployed one. Apriori association
+  rule mining is data mining, not supervised learning, and I will not stretch it.
+- **No NLP pipelines.** The systems above call an API. I have not implemented tokenisation, entity
+  extraction or sentiment analysis myself.
+- **No predictive analytics or forecasting.** The dashboards report what happened.
+- **No RAG, vector databases or embeddings.**
+- **No MLOps.** No model monitoring, no A/B testing, no ML pipeline management.
+
+If a role needs those, I am not yet your candidate. If a role needs someone who can sit with
+operations people, work out what the system actually has to do, and then build it — that I can
+evidence.
 
 ---
 
-## Portfolio Website
+## Skills
 
-A dedicated portfolio site with detailed case studies from BRIMIS Engineering and other consulting engagements:
+**Business analysis** — requirements elicitation and specification · process modelling ·
+current- and future-state analysis · stakeholder management to executive level · risk analysis ·
+gap analysis · BABOK v3 · BRD/FRD · UAT planning
 
-[View Portfolio Repository](https://github.com/MattSlayed/koeberg-portfolio)
+**AI & automation** — Claude API · Model Context Protocol (MCP) · prompt engineering ·
+context engineering · agentic workflow design · Claude Code skills authoring · process automation
+
+**Data & BI** — Power BI · star-schema modelling · DAX · Power Query M · Python ETL · SQL/SQLite ·
+dashboard design
+
+**Build** — TypeScript · Next.js · React · NestJS · Prisma · Supabase · Tailwind · Docker · VBA
+
+**Standards & methods** — ISO 9001:2015 · NEC3/NEC4 · McKinsey 7S · Scrum
+
+---
+
+## Writing
+
+- **The Honest AI Resume** — a three-tier framework for claiming AI experience, applied to myself first
+- **Workshop Intelligence** — a gated, 11-step AI workflow for high-stakes reporting
+- **Building a Central Intelligence System with the Claude API and MCP**
+- **The Data-Foundation Myth** — why most enterprise AI stalls before it starts
+
+---
+
+## Certifications
+
+Introduction to Model Context Protocol · AI Fluency: Framework & Foundations — **Anthropic**
+Agent Skills with Anthropic — **DeepLearning.AI** · AI Agent Security — **Proofpoint**
+Databricks Fundamentals Accreditation — **Databricks** · AWS Educate: Cloud 101, Storage, Compute
+Career Essentials in Generative AI — **Microsoft & LinkedIn** · Ethics in the Age of Generative AI
+Wits Crucible venture programme — **University of the Witwatersrand**
+
+**BBA**, NQF 7 — STADIO Higher Education
 
 ---
 
 ## Contact
 
-- **Email:** matthew@novatekllc.co.za
-- **LinkedIn:** [matthew-koeberg-a76760296](https://linkedin.com/in/matthew-koeberg-a76760296)
-- **GitHub:** [MattSlayed](https://github.com/MattSlayed)
-- **Notion Portfolio:** (https://www.notion.so/Matthew-Business-Analyst-Portfolio-30be6c99a6b4804098acfa16cd1be358?source=copy_link)
-
-**Thank you for visiting my Business Analyst & Consultant Portfolio.**
+**Email** matthew@novatekllc.co.za · **LinkedIn** [matthew-koeberg-a76760296](https://linkedin.com/in/matthew-koeberg-a76760296)
