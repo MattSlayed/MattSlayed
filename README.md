@@ -12,12 +12,12 @@ page follows the same rule: every claim below points at a repository.
 
 ---
 
-## Systems built with the Claude API as a core component
+## Systems built with the Claude API/Agent SDK as a core component
 
 Four, one of them running in client operations. Status stated plainly.
 
 ### [D2A Target Account Intelligence](https://github.com/MattSlayed/d2a-intelligence-web) — NOVATEK Agentic OS
-[Live](https://d2a-intelligence-web.vercel.app) · Next.js · Anthropic Messages API
+[Live](https://d2a-intelligence-web.vercel.app) · Next.js · Anthropic Messages API/Web search tool
 
 A demonstration Agentic Operating System. Profiles enterprise accounts, detects buying triggers,
 routes to the right executive, and scores pursuit priority using the ABCD method — grounded in
@@ -27,7 +27,7 @@ Ships four authored Claude Code skills (`run-d2a-sweep`, `deploy-to-vercel`, `ad
 `update-aos-docs`) and an enterprise PRD of 71 requirements with a traceability matrix.
 
 ### [Contract Management Platform](https://github.com/MattSlayed/Contracts-Management)
-[Live](https://contracts-management-nu.vercel.app) · NestJS · Next.js · Prisma · TypeScript
+[Live](https://contracts-management-nu.vercel.app) · NestJS · Next.js · Prisma · TypeScript · RAG  
 
 AI-assisted contract lifecycle management for NEC3/NEC4 engineering contracts. The Claude API
 extracts key terms, parties, dates, values and obligations; identifies risk; compares clauses; and
@@ -88,25 +88,6 @@ KPI tracking and recommendations.
 **[koeberg-portfolio](https://github.com/MattSlayed/koeberg-portfolio)** — WordPress BA portfolio, custom SCSS theme, Docker, Vite
 
 ---
-
-## What I have not done
-
-The three-tier framework is only worth anything if it cuts both ways, so:
-
-- **No machine-learning models.** I have not trained, tuned or deployed one. Apriori association
-  rule mining is data mining, not supervised learning, and I will not stretch it.
-- **No NLP pipelines.** The systems above call an API. I have not implemented tokenisation, entity
-  extraction or sentiment analysis myself.
-- **No predictive analytics or forecasting.** The dashboards report what happened.
-- **No RAG, vector databases or embeddings.**
-- **No MLOps.** No model monitoring, no A/B testing, no ML pipeline management.
-
-If a role needs those, I am not yet your candidate. If a role needs someone who can sit with
-operations people, work out what the system actually has to do, and then build it — that I can
-evidence.
-
----
-
 ## Skills
 
 **Business analysis** — requirements elicitation and specification · process modelling ·
@@ -114,24 +95,14 @@ current- and future-state analysis · stakeholder management to executive level 
 gap analysis · BABOK v3 · BRD/FRD · UAT planning
 
 **AI & automation** — Claude API · Model Context Protocol (MCP) · prompt engineering ·
-context engineering · agentic workflow design · Claude Code skills authoring · process automation
+context engineering · agentic workflow design · Claude Code skills authoring · Process Automation · Copilot
 
 **Data & BI** — Power BI · star-schema modelling · DAX · Power Query M · Python ETL · SQL/SQLite ·
 dashboard design
 
 **Build** — TypeScript · Next.js · React · NestJS · Prisma · Supabase · Tailwind · Docker · VBA
 
-**Standards & methods** — ISO 9001:2015 · NEC3/NEC4 · McKinsey 7S · Scrum
-
----
-
-## Writing
-
-- **The Honest AI Resume** — a three-tier framework for claiming AI experience, applied to myself first
-- **Workshop Intelligence** — a gated, 11-step AI workflow for high-stakes reporting
-- **Building a Central Intelligence System with the Claude API and MCP**
-- **The Data-Foundation Myth** — why most enterprise AI stalls before it starts
-
+**Standards & methods** — ISO 9001:2015 · NEC3/NEC4 · McKinsey 7S · Scrum · TOC (Theory of Constraints) · RCA (Root Cause Analysis) · SWOT · PESTLE/PORTERS  · Digital Transformation Matrix
 ---
 
 ## Certifications
@@ -141,8 +112,8 @@ Agent Skills with Anthropic — **DeepLearning.AI** · AI Agent Security — **P
 Databricks Fundamentals Accreditation — **Databricks** · AWS Educate: Cloud 101, Storage, Compute
 Career Essentials in Generative AI — **Microsoft & LinkedIn** · Ethics in the Age of Generative AI
 Wits Crucible venture programme — **University of the Witwatersrand**
-
-**BBA**, NQF 7 — STADIO Higher Education
+Project Management (NQF 5) - **Growright (Nevan Matthews as host)**
+**BBA**, NQF 7 — **STADIO Higher Education**
 
 ---
 
