@@ -14,8 +14,6 @@ page follows the same rule: every claim below points at a repository.
 
 ## Systems built with the Claude API/Agent SDK as a core component
 
-Four, one of them running in client operations. Status stated plainly.
-
 ### [D2A Target Account Intelligence](https://github.com/MattSlayed/d2a-intelligence-web) — NOVATEK Agentic OS
 [Live](https://d2a-intelligence-web.vercel.app) · Next.js · Anthropic Messages API/Web search tool
 
