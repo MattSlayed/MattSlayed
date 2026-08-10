@@ -1,15 +1,14 @@
 # Matthew Koeberg
 
-**Solutions Engineer — AI Integrations & Technical Pre-Sales · NOVATEK LLC · Johannesburg, South Africa**
+**Solutions Engineer — AI Engineering & Technical Pre-Sales · NOVATEK LLC · Johannesburg, South Africa**
 
 I build the integration and run the client conversation. Most of my work sits at the seam where
-language models meet institutions — industrial operations, contracts, quality management — where the
+language models meet institutions — industrial operations, contracts, quality management where the
 interesting problem is rarely the model and almost always the plumbing, the process and the
 accountability.
 
 I write publicly about that seam, including a three-tier framework for making calibrated claims
-about AI experience. I applied it to my own résumé before applying it to anything else, and this
-page follows the same rule: every claim below points at a repository.
+about AI experience. Every claim made below points at a repository.
 
 ---
 
