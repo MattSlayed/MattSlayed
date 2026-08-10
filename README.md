@@ -1,6 +1,6 @@
 # Matthew Koeberg
 
-**Solutions Engineer — AI Engineering & Technical Pre-Sales · NOVATEK LLC · Johannesburg, South Africa**
+**Solutions Engineer — AI Engineering & Technical Pre-Sales · Business Analyst · NOVATEK LLC · Johannesburg, South Africa**
 
 I build the integration and run the client conversation. Most of my work sits at the seam where
 language models meet institutions — industrial operations, contracts, quality management where the
