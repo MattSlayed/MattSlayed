@@ -1,6 +1,6 @@
 # Matthew Koeberg
 
-**Solutions Engineer — AI Engineering & Technical Pre-Sales · Business Analyst · NOVATEK LLC · Johannesburg, South Africa**
+**AI Automation/Solutions Engineer | Agentic Systems Architect (Claude Code/Codex, n8n, Zapier) RAG & MCP | Multi-Model LLM Apps (Claude/GPT/Gemini) | Python | Founder, NOVATEK LLC | Business Automation Consultant · NOVATEK LLC · Johannesburg, South Africa**
 
 I build the integration and run the client conversation. Most of my work sits at the seam where
 language models meet institutions — industrial operations, contracts, quality management where the
