@@ -3,7 +3,7 @@
 **AI Automation/Solutions Engineer | Agentic Systems Architect (Claude Code/Codex, n8n, Zapier) RAG & MCP | Multi-Model LLM Apps (Claude/GPT/Gemini) | Python | Founder, NOVATEK LLC | Business Automation Consultant · NOVATEK LLC · Johannesburg, South Africa**
 
 I build the integration and run the client conversation. Most of my work sits at the seam where
-language models meet institutions — industrial operations, contracts, quality management where the
+language models meet institutions industrial operations, contracts, quality management where the
 interesting problem is rarely the model and almost always the plumbing, the process and the
 accountability.
 
