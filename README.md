@@ -116,7 +116,6 @@ The three-tier framework is only worth anything if it cuts both ways, so:
 - **No NLP pipelines.** The systems above call an API. I have not implemented tokenisation, entity
   extraction or sentiment analysis myself.
 - **No predictive analytics or forecasting.** The dashboards report what happened.
-- **No RAG, vector databases or embeddings.**
 - **No MLOps.** No model monitoring, no A/B testing, no ML pipeline management.
 
 If a role needs those, I am not yet your candidate. If a role needs someone who can sit with
